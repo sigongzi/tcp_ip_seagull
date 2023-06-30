@@ -1,1 +1,8 @@
 /target
+
+[user]
+email = sigongzi4711@gmail.com
+signingkey = B217EAF73B2B1EF1
+
+[commit]
+gpgsign = true
